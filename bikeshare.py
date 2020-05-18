@@ -127,7 +127,7 @@ def user_stats(df, city):
     start_time = time.time()
 
     # TO DO: Display counts of user types
-    print("Here is the information about the Here are the types of user, except for the city of Washington:")
+    print("Here is the information about the --- Here are the types of user, except for the city of Washington:")
     print(df['User Type'].value_counts())
 
     if city != 'washington':
