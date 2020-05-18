@@ -10,10 +10,12 @@ Nombre del proyecto: BIKESHARE
 Fue un sistema de comparacion entre los sistemas de transporte, en este caso Bicicletas entre 3 ciudades de EEUU, que para el ejemplo fueron: Chicago, NewYork, Washington
 
 ### Files used
-Los archivos utilizados fueron: chicago.csv, new_york_city.csv, washington.csv, bikeshare.py
+Los archivos utilizados fueron los siguientes: chicago.csv, new_york_city.csv, washington.csv, bikeshare.py
 
 ### Credits
 Para este proyecto utilice data de las siguientes paginas que me ayudaron a solucionar:
 https://www.motivateco.com/
+
+No git command needed (edit the text in your README.md file and code in bikeshare.py file)
 
 
