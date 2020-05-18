@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+Fecha de Creacion proyecto: 18/05/2020
+Y
+Fecha de Creacion del archivo README: 18/05/2020
 
 ### Project Title
-Replace the Project Title
+Nombre del proyecto: BIKESHARE
 
 ### Description
-Describe what your project is about and what it does
+Fue un sistema de comparacion entre los sistemas de transporte, en este caso Bicicletas entre 3 ciudades de EEUU, que para el ejemplo fueron: Chicago, NewYork, Washington
 
 ### Files used
-Include the files used
+Los archivos utilizados fueron: chicago.csv, new_york_city.csv, washington.csv, bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Para este proyecto utilice data de las siguientes paginas que me ayudaron a solucionar:
+https://www.motivateco.com/
+
 
